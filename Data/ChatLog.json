@@ -1,0 +1,274 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "system",
+        "content": "Hello! It's nice to meet you, CASETOO. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who are u"
+    },
+    {
+        "role": "system",
+        "content": "I am AERIS, an advanced AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "meta?"
+    },
+    {
+        "role": "system",
+        "content": "I'm an AI chatbot named AERIS."
+    },
+    {
+        "role": "user",
+        "content": "what is meta"
+    },
+    {
+        "role": "system",
+        "content": "Meta is a technology company that operates several businesses and is best known for Facebook, Instagram, and WhatsApp."
+    },
+    {
+        "role": "user",
+        "content": "elon musk"
+    },
+    {
+        "role": "system",
+        "content": "A business magnate and entrepreneur who is the CEO of SpaceX and Tesla, Inc."
+    },
+    {
+        "role": "user",
+        "content": "time"
+    },
+    {
+        "role": "system",
+        "content": "11:16:09"
+    },
+    {
+        "role": "user",
+        "content": "remember the number 07"
+    },
+    {
+        "role": "system",
+        "content": "I've remembered the number 07."
+    },
+    {
+        "role": "user",
+        "content": "time & date"
+    },
+    {
+        "role": "system",
+        "content": "Sunday, February 23, 2025, 11:16:39"
+    },
+    {
+        "role": "user",
+        "content": "tell me the number"
+    },
+    {
+        "role": "system",
+        "content": "07"
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "system",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "tell me the no"
+    },
+    {
+        "role": "system",
+        "content": "07"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "system",
+        "content": "I see you said \"hello\" again! Based on our previous conversation, I noticed that the search results for \"hello\" are related to music videos by Adele and Lionel Richie. Would you like to know more about their songs or is there something else I can help you with?"
+    },
+    {
+        "role": "user",
+        "content": "who am i"
+    },
+    {
+        "role": "system",
+        "content": "Based on the search results, \"Who Am I\" can refer to different things. It could be a 2014 film, a song by Casting Crowns, or a question about self-discovery. If you're asking about your identity, the search result from Dadabhagwan.org suggests that you might be wondering about your true self, beyond your roles or relationships. Would you like to explore this topic further?"
+    },
+    {
+        "role": "user",
+        "content": "tcs stock price"
+    },
+    {
+        "role": "system",
+        "content": "According to the latest available information, the current stock price of Tata Consultancy Services (TCS) is \u20b93776.10, with a previous close of \u20b93779.40. The upper circuit limit is \u20b94157.30, and the lower circuit limit is \u20b93401.50. The market capitalization (m-cap) of TCS is \u20b91,369,808 crore."
+    },
+    {
+        "role": "user",
+        "content": "who is casetoo"
+    },
+    {
+        "role": "system",
+        "content": "Casetoo is Aditya Sharma, a 21-year-old Indian gamer and YouTube content creator. He is known for his PUBG Mobile gameplay and creates content on various games such as GTA, BGMI, Valorant, etc. He has a YouTube channel with over 2.8 million subscribers and is also active on Instagram with over 430K followers."
+    },
+    {
+        "role": "user",
+        "content": "who is CASETOO"
+    },
+    {
+        "role": "system",
+        "content": "CASETOO is Aditya Sharma, a 21-year-old Indian gamer and YouTube content creator. He is known for his PUBG Mobile gameplay and creates content on various games such as GTA, BGMI, Valorant, etc. He has a YouTube channel with over 2.8 million subscribers and is also active on Instagram with over 430K followers."
+    },
+    {
+        "role": "user",
+        "content": "who is msd"
+    },
+    {
+        "role": "system",
+        "content": "Mahendra Singh Dhoni is an Indian professional cricketer who plays as a right-handed batter and a wicket-keeper."
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "system",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "curlla movie is avabiable in which ott"
+    },
+    {
+        "role": "system",
+        "content": "The movie \"Cruella\" is available on the following OTT platforms: Prime Video, Disney+, and JioHotstar."
+    },
+    {
+        "role": "user",
+        "content": "is it have any other part?"
+    },
+    {
+        "role": "system",
+        "content": "According to the search results, \"any other part\" or \"any part\" can be used in different contexts. For example, \"Social medias are so popular here like any other part/parts of the world.\" You can also use phrases like \"any part of the world\", \"any corner of the world\", or \"any nook and cranny of the world\".\n\nAdditionally, \"part\" has several synonyms, including division, fragment, member, piece, portion, section, and segment. The usage of \"part\" or \"a part\" depends on the context, with \"part\" being used when it's not meaningful without the rest of the whole, and \"a part\" being used when it's meaningful and combines with other parts of the same whole.\n\nIn general, \"any other part\" suggests that there are multiple parts or divisions, and you're referring to one or more of them."
+    },
+    {
+        "role": "user",
+        "content": "dose cruella has another part?"
+    },
+    {
+        "role": "system",
+        "content": "Yes, according to the search results, Emma Stone and Emma Thompson have expressed interest in making a second Cruella film, which would be a sequel to the 2021 prequel. There is also a concept trailer for Cruella 2 (2025) available."
+    },
+    {
+        "role": "user",
+        "content": "time rigt now?"
+    },
+    {
+        "role": "system",
+        "content": "According to the current time, it is Sunday, February 23, 2025, 12:19:06."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "system",
+        "content": "I see you said \"hello\" again! Based on our previous conversation, I noticed that the search results for \"hello\" are related to music videos by Adele and Lionel Richie. Would you like to know more about their songs or is there something else I can help you with?"
+    },
+    {
+        "role": "user",
+        "content": "Hello hello?"
+    },
+    {
+        "role": "system",
+        "content": "I see you said \"hello\" again! Would you like to know more about the music videos by Adele and Lionel Richie, or is there something else I can help you with?"
+    },
+    {
+        "role": "user",
+        "content": "Hey aries?"
+    },
+    {
+        "role": "system",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "Hey harish please another on youtube?"
+    },
+    {
+        "role": "system",
+        "content": "You're referring to CASETOO, a 21-year-old Indian gamer and YouTube content creator, known for his PUBG Mobile gameplay and content on various games."
+    },
+    {
+        "role": "user",
+        "content": "Download kariye original high quality songs saregama.com?"
+    },
+    {
+        "role": "system",
+        "content": "I'm not aware of any information about downloading high-quality songs from saregama.com."
+    },
+    {
+        "role": "user",
+        "content": "Meri kasam tujhe o sanam door kahin na aaja ye duri kahati hai sans mere aaja re?"
+    },
+    {
+        "role": "system",
+        "content": "(I couldn't find any specific information related to this phrase. It seems to be a lyrical quote or a poem. If you can provide more context, I'll be happy to help.)"
+    },
+    {
+        "role": "user",
+        "content": "Yun hi baras baras kali ghata barse?"
+    },
+    {
+        "role": "system",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "Aries how are you?"
+    },
+    {
+        "role": "system",
+        "content": "According to the search results, Aries are dynamic individuals who exude a unique mix of confidence and enthusiasm, with a vibrant, energetic nature that inspires those around them. They are bold, energetic, full of vitality, charismatic, fun, lively, passionate, and driven by their hearts and desires. Aries are also spontaneous and adventurous, and will go out of their way to impress their partner with grand gestures and bold declarations of love. They have a romantic side that goes unnoticed, and they want you to be interested in them."
+    },
+    {
+        "role": "user",
+        "content": "Aries what's the time now?"
+    },
+    {
+        "role": "system",
+        "content": "10:13:55"
+    },
+    {
+        "role": "user",
+        "content": "Today's date?"
+    },
+    {
+        "role": "system",
+        "content": "Thursday, February 27, 2025"
+    },
+    {
+        "role": "user",
+        "content": "Today's bitcoin price?"
+    },
+    {
+        "role": "system",
+        "content": "According to the latest available information, the current price of Bitcoin (BTC) is $85,161.40, with a 24-hour trading volume of $72,543,356,684, which represents a -4.15% price decline."
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk?"
+    },
+    {
+        "role": "system",
+        "content": ""
+    }
+]
